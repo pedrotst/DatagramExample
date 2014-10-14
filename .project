@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>DatagramExample</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/addresses.txt</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/addresses.txt</locationURI>
+		</link>
+		<link>
+			<name>src/one-liners.txt</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/one-liners.txt</locationURI>
+		</link>
+		<link>
+			<name>src/participants.properties</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/participants.properties</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
